@@ -21,7 +21,8 @@
       "publisher": "DC Comics",
       "alter_ego": "Kal-El",
       "first_appearance": "Action Comics #1",
-      "characters": "Kal-El"
+      "characters": "Kal-El",
+      "alt_img": "https://i.pinimg.com/originals/51/33/b7/5133b7ed0f7fc74a12b0d1317e266afb.jpg"
     },
     {
       "id": "dc-flash",
@@ -38,14 +39,6 @@
       "alter_ego": "Alan Scott",
       "first_appearance": "All-American Comics #16",
       "characters": "Alan Scott, Hal Jordan, Guy Gardner, John Stewart, Kyle Raynor, Jade, Sinestro, Simon Baz"
-    },
-    {
-      "id": "dc-arrow",
-      "superhero": "Green Arrow",
-      "publisher": "DC Comics",
-      "alter_ego": "Oliver Queen",
-      "first_appearance": "More Fun Comics #73",
-      "characters": "Oliver Queen"
     },
     {
       "id": "dc-wonder",
@@ -116,8 +109,9 @@
       "superhero": "Thor",
       "publisher": "Marvel Comics",
       "alter_ego": "Thor Odinson",
-      "first_appearance": "Journey into Myster #83",
-      "characters": "Thor Odinson"
+      "first_appearance": "Journey into Myster #82",
+      "characters": "Thor Odinson",
+      "alt_img": null
     },
     {
       "id": "marvel-hulk",
