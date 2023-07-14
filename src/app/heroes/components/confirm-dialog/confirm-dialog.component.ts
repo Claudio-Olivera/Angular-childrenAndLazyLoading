@@ -21,6 +21,7 @@ export class ConfirmDialogComponent {
 
   onConfirm():void{
     this.dialogRef.close(true);
+
   }
 
 }
